@@ -1,1 +1,1 @@
-# Parsing-FIile-to-retrieve-Circuit-info-
+# Parsing-FIile-to-retrieve-Delay-Slew-and-Circuit-info
